@@ -5,5 +5,7 @@ If an answer is correct, there is a prompt for correct and if incorrect, time is
 Last, when the quiz is finished the user can enter their initials.
 
 Deployed live URL:
+https://samanthalord22.github.io/Code-Quiz-Wk3/
 
 Screenshot of live web page:
+.Assets/screenshot.png
