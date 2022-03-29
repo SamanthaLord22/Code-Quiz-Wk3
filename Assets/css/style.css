@@ -1,0 +1,12 @@
+body {
+    background-attachment:fixed;
+    background-image: linear-gradient(rgb(252, 187, 255), rgb(181, 141, 245), rgb(68, 149, 255));
+    text-align: center;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(0, 0, 209);
+}
+h1 {
+    margin-top: 100px;
+    font-size: 45px;
+}
